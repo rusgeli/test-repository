@@ -3,8 +3,7 @@
 int main()
 
 {
-
 	printf("yeah, i have created commit!");
-
-return 0;	
+	printf("hello");
+	return 0;	
 }
